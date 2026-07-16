@@ -1,0 +1,26 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-01-01,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Credit Card
+10002,2024-01-02,Home Appliances,Dyson V11 Vacuum,1,499.99,499.99,Europe,PayPal
+10003,2024-01-03,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card
+10004,2024-01-04,Books,The Da Vinci Code,4,15.99,63.96,North America,Credit Card
+10005,2024-01-05,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
+10006,2024-01-06,Sports,Nike Football,5,49.99,249.95,Asia,Credit Card
+10007,2024-01-07,Electronics,Samsung Galaxy S24,1,899.99,899.99,Europe,Debit Card
+10008,2024-01-08,Home Appliances,LG Microwave Oven,2,199.99,399.98,North America,PayPal
+10009,2024-01-09,Books,Atomic Habits,3,20.99,62.97,Asia,Credit Card
+10010,2024-01-10,Beauty Products,L'Oreal Shampoo,4,12.99,51.96,Europe,Debit Card
+10011,2024-01-11,Clothing,Adidas Hoodie,2,59.99,119.98,North America,Credit Card
+10012,2024-01-12,Electronics,Apple Watch Series 9,1,399.99,399.99,Asia,PayPal
+10013,2024-01-13,Sports,Yonex Badminton Racket,2,89.99,179.98,Europe,Credit Card
+10014,2024-01-14,Books,Rich Dad Poor Dad,5,14.99,74.95,North America,Debit Card
+10015,2024-01-15,Home Appliances,Philips Air Fryer,1,149.99,149.99,Asia,Credit Card
+10016,2024-01-16,Electronics,Dell Inspiron Laptop,1,799.99,799.99,Europe,PayPal
+10017,2024-01-17,Clothing,Puma Sneakers,3,74.99,224.97,North America,Debit Card
+10018,2024-01-18,Beauty Products,Nivea Face Wash,6,8.99,53.94,Asia,Credit Card
+10019,2024-01-19,Sports,Wilson Tennis Ball Set,4,19.99,79.96,Europe,PayPal
+10020,2024-01-20,Books,The Alchemist,2,18.99,37.98,North America,Credit Card
+10021,2024-01-21,Electronics,Sony WH-1000XM5 Headphones,2,349.99,699.98,Asia,Debit Card
+10022,2024-01-22,Home Appliances,Panasonic Rice Cooker,3,89.99,269.97,Europe,Credit Card
+10023,2024-01-23,Clothing,Zara Jacket,2,99.99,199.98,North America,PayPal
+10024,2024-01-24,Beauty Products,Dove Body Lotion,5,10.99,54.95,Asia,Debit Card
+10025,2024-01-25,Sports,Spalding Basketball,3,29.99,89.97,Europe,Credit Card
